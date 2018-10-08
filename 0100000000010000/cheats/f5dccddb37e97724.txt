@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPSMT;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red43\green55\blue73;\red120\green173\blue255;
+\red96\green167\blue237;\red161\green171\blue179;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c21961\c28235\c35686;\cssrgb\c53725\c74118\c100000;
+\cssrgb\c44314\c71765\c94510;\cssrgb\c69020\c72549\c75294;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl320\partightenfactor0
+
+\f0\fs26\fsmilli13333 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 [\cf4 \strokec4 Inf\cf2 \strokec2 . \cf4 \strokec4 Health\cf2 \strokec2 ]\
+\cf5 \strokec5 580f0000\cf2 \strokec2  \cf5 \strokec5 026583c0\cf2 \strokec2 \
+\cf5 \strokec5 780f0000\cf2 \strokec2  \cf5 \strokec5 00642d3c\cf2 \strokec2 \
+\cf5 \strokec5 640f0000\cf2 \strokec2  \cf5 \strokec5 00000000\cf2 \strokec2  \cf5 \strokec5 00000006\cf2 \strokec2 \
+\
+[\cf4 \strokec4 Inf\cf2 \strokec2 . \cf4 \strokec4 Gold\cf2 \strokec2  \cf4 \strokec4 Coins\cf2 \strokec2 ]\
+\cf5 \strokec5 580f0000\cf2 \strokec2  \cf5 \strokec5 0264af58\cf2 \strokec2 \
+\cf5 \strokec5 780f0000\cf2 \strokec2  \cf5 \strokec5 004ff8a0\cf2 \strokec2 \
+\cf5 \strokec5 640f0000\cf2 \strokec2  \cf5 \strokec5 00000000\cf2 \strokec2  \cf5 \strokec5 0000270f\cf2 \strokec2 \
+\
+[\cf4 \strokec4 Inf\cf2 \strokec2 . \cf4 \strokec4 Purple\cf2 \strokec2  \cf4 \strokec4 Coins\cf2 \strokec2 ]\
+\cf5 \strokec5 580f0000\cf2 \strokec2  \cf5 \strokec5 0264af58\cf2 \strokec2 \
+\cf5 \strokec5 780f0000\cf2 \strokec2  \cf5 \strokec5 0078B330\cf2 \strokec2 \
+\cf5 \strokec5 640f0000\cf2 \strokec2  \cf5 \strokec5 00000000\cf2 \strokec2  \cf5 \strokec5 0000270f\cf6 \strokec6 \
+}
