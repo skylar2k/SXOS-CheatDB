@@ -29,7 +29,8 @@
 ### L
 
 ### M
-* Mega man legacy collection
+* Mega Man legacy collection
+* Mega Man 11
 
 ### N
 
