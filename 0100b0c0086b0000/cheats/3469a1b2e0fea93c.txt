@@ -1,2 +1,4 @@
+[Disable Cheats]
+
 [Megaman 9 Lives]
 011f0000 0d52c798 00000009

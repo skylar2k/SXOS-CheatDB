@@ -1,3 +1,5 @@
+[Disable Cheats]
+
 [Inf. Health - 999 HP]
 580f0000 011850f8
 780f0000 067FB986

@@ -1,3 +1,5 @@
+[Disable Cheats]
+
 [Inf.  Money]
 580f0000 00121ac0
 780f1000 0000002c
