@@ -8,6 +8,7 @@
 * Blossom Tales
 
 ### C
+* Cave Story+
 
 ### D
 * Dragon Quest Builders
@@ -29,8 +30,8 @@
 ### L
 
 ### M
-* Mega Man legacy collection
 * Mega Man 11
+* Mega Man legacy collection
 
 ### N
 
