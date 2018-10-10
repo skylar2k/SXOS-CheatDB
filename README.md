@@ -1,5 +1,7 @@
 # SXOS Cheat DB
 
+titleid db can be found at http://nswdb.com/
+
 # Current titles
 
 ### A
