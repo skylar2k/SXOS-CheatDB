@@ -81,6 +81,6 @@ https://gbatemp.net/members/dsrules.31620/
 
 https://gbatemp.net/members/hellryu.352862/
 
-https://team-xecuter.com/forums/members/302135-Fa-dx
+https://gbatemp.net/members/fadx.400805/
 
 https://team-xecuter.com/forums/members/299480-speedfly
