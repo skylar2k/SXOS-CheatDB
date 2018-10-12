@@ -47,6 +47,7 @@ titleid db can be found at http://nswdb.com/
 ### R
 
 ### S
+* Splatoon 2
 * Super Mario Odyssey
 
 ### T
