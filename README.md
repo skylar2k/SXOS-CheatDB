@@ -34,6 +34,7 @@ titleid db can be found at http://nswdb.com/
 ### M
 * Mega Man 11
 * Mega Man legacy collection
+*	Mega Man X Legacy Collection
 
 ### N
 
