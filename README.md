@@ -13,6 +13,7 @@ titleid db can be found at http://nswdb.com/
 * Cave Story+
 
 ### D
+* Dragon Ball Xenoverse 2
 * Dragon Quest Builders
 
 ### E
@@ -79,3 +80,7 @@ https://gbatemp.net/members/mega-mew.365621/
 https://gbatemp.net/members/dsrules.31620/
 
 https://gbatemp.net/members/hellryu.352862/
+
+https://team-xecuter.com/forums/members/302135-Fa-dx
+
+https://team-xecuter.com/forums/members/299480-speedfly
