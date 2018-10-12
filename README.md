@@ -53,6 +53,7 @@ titleid db can be found at http://nswdb.com/
 ### U
 
 ### V
+* Valkyria Chronicles 4
 
 ### W
 
