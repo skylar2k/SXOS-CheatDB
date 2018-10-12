@@ -73,3 +73,9 @@ https://gbatemp.net/members/analogman.75506/
 https://gbatemp.net/members/dablackdeath.110449/
 
 https://gbatemp.net/members/matt123337.347200/
+
+https://gbatemp.net/members/mega-mew.365621/
+
+https://gbatemp.net/members/dsrules.31620/
+
+https://gbatemp.net/members/hellryu.352862/
