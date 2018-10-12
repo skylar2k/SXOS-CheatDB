@@ -38,6 +38,7 @@ titleid db can be found at http://nswdb.com/
 ### N
 
 ### O
+* Okami HD
 
 ### P
 
