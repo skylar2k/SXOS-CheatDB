@@ -53,6 +53,7 @@ titleid db can be found at http://nswdb.com/
 * Super Mario Odyssey
 
 ### T
+* The Legend of Zelda: Breath of the Wild
 
 ### U
 
