@@ -84,3 +84,5 @@ https://gbatemp.net/members/hellryu.352862/
 https://gbatemp.net/members/fadx.400805/
 
 https://team-xecuter.com/forums/members/299480-speedfly
+
+https://gbatemp.net/members/kyonando.467176/

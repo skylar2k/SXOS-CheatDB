@@ -1,0 +1,4 @@
+[Disable cheats]
+
+[Infinite Health]
+011f0000 a8d05608 00000078
