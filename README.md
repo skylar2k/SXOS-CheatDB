@@ -13,6 +13,7 @@ titleid db can be found at http://nswdb.com/
 * Cave Story+
 
 ### D
+* Dragon Ball FighterZ
 * Dragon Ball Xenoverse 2
 * Dragon Quest Builders
 
@@ -35,7 +36,7 @@ titleid db can be found at http://nswdb.com/
 ### M
 * Mega Man 11
 * Mega Man legacy collection
-*	Mega Man X Legacy Collection
+* Mega Man X Legacy Collection
 
 ### N
 
@@ -50,6 +51,7 @@ titleid db can be found at http://nswdb.com/
 
 ### S
 * Splatoon 2
+* Stardew Valley
 * Super Mario Odyssey
 
 ### T
