@@ -7,21 +7,21 @@
 041f0000 a0d4d640 0001869f
 041f0000 a9b0bff0 0001869f
 
-[9999 Bows (Slot1)]
+[9999 Arrows (Slot1)]
 021f0000 a9864c88 000003e7
 
-[9999 Bows (Slot2)]
+[9999 Arrows (Slot2)]
 021f0000 a98649f0 000003e7
 
 
-[9999 Bows (Slot3)]
+[9999 Arrows (Slot3)]
 021f0000 a9864758 000003e7
 
-[9999 Bows (Slot4)]
+[9999 Arrows (Slot4)]
 021f0000 a98644c0 000003e7
 
-[9999 Bows (Slot5)]
+[9999 Arrows (Slot5)]
 021f0000 a9864228 000003e7
 
-[9999 Bows (Slot6)]
+[9999 Arrows (Slot6)]
 021f0000 a9863f90 000003e7
