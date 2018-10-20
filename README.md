@@ -16,7 +16,7 @@ titleid db can be found at http://nswdb.com/
 
 ### D
 * Dark Souls
-* Dell Cells (EUR)
+* Dead Cells (EUR)
 * Dragon Ball FighterZ
 * Dragon Ball Xenoverse 2
 * Dragon Quest Builders
