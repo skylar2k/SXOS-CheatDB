@@ -1,5 +1,3 @@
-[Disable Cheats]
-
 [Inf. Health]
 580f0000 026583c0
 780f0000 00642d3c
@@ -10,8 +8,7 @@
 780f0000 004ff8a0
 640f0000 00000000 0000270f
 
-[999 Purple Pyramids (Sand Kingdom)]
+[999 Purple Coins (Cap + Sand Kingdoms)]
 580f0000 0264af58
 780f0000 0078B330
 640f0000 00000000 000003e7
-
