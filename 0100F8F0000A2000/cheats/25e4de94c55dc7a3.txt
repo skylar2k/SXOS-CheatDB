@@ -1,5 +1,3 @@
-[Disable Cheats]
-
 [Night mode in every stages (client sided)] 
 04100000 09694898 00000002
 04100000 09694AC8 00000002
