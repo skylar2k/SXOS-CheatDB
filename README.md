@@ -1,6 +1,6 @@
 # SXOS Cheat DB
-
-titleid db can be found at http://nswdb.com/
+This is a collection of cheat codes for use with Team Xecutor's SXOS CFW on Nintendo Switch
+Title ID database can be found at http://nswdb.com/
 
 # Current titles
 
@@ -16,7 +16,7 @@ titleid db can be found at http://nswdb.com/
 
 ### D
 * Dark Souls
-* Dell Cells (EUR)
+* Dead Cells (EUR)
 * Dragon Ball FighterZ
 * Dragon Ball Xenoverse 2
 * Dragon Quest Builders
