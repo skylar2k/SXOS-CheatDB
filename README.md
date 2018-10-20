@@ -1,6 +1,13 @@
 # SXOS Cheat DB
 This is a collection of cheat codes for use with Team Xecutor's SXOS CFW on Nintendo Switch
+
 Title ID database can be found at http://nswdb.com/
+
+# Usage
+[Click here to Download](../../archive/master.zip "SXOS CheatDB")
+
+Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
+
 
 # Current titles
 
