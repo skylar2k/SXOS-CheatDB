@@ -65,8 +65,8 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 |--|--|--
 |Oceanhorn - Monster of Uncharted Seas|[01007d7001d0e000](../../tree/master/01007d7001d0e000/cheats)|US
 |Octopath Traveler|[010057d006492000](../../tree/master/010057d006492000/cheats)|
-|Okami HD|[0100276009872000](../../tree/master/0100F10009870000/cheats)|EUR US
-|Okami HD|[0100F10009870000](../../tree/master/0100276009872000/cheats)|JPN
+|Okami HD|[0100276009872000](../../tree/master/0100F10009870000/cheats)|JPN
+|Okami HD|[0100F10009870000](../../tree/master/0100276009872000/cheats)|EUR US
 
 ### P
 
