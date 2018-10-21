@@ -41,6 +41,9 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### F
 
 ### G
+|Name|TitleID|Region
+|--|--|--
+|GUNBIRD for Nintendo Switch|[01003C6008940000](../../tree/master/01003C6008940000/cheats)|
 
 ### H
 
