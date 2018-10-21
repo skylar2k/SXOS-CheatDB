@@ -6,7 +6,8 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 
 ## Usage
 [Click here to Download](../../archive/master.zip "SXOS CheatDB")
- Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
+
+Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 
 # Current titles
 
