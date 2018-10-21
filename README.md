@@ -43,8 +43,8 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### G
 |Name|TitleID|Region
 |--|--|--
-|GUNBIRD for Nintendo Switch|[01003C6008940000](../../tree/master/01003C6008940000/cheats)|
-|GUNBIRD2 for Nintendo Switch|[0100BCB00AE98000](../../tree/master/0100BCB00AE98000/cheats)|
+|GUNBIRD|[01003C6008940000](../../tree/master/01003C6008940000/cheats)|
+|GUNBIRD 2|[0100BCB00AE98000](../../tree/master/0100BCB00AE98000/cheats)|
 
 ### H
 
@@ -82,7 +82,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### S
 |Name|TitleID|Region
 |--|--|--
-|SamuraiAces for Nintendo Switch|[0100ADF0096F2000](../../tree/master/0100ADF0096F2000/cheats)|
+|Samurai Aces|[0100ADF0096F2000](../../tree/master/0100ADF0096F2000/cheats)|
 |Sonic Mania Plus|[01009AA000FAA000](../../tree/master/01009AA000FAA000/cheats)|
 |Splatoon 2|[0100F8F0000A2000](../../tree/master/0100F8F0000A2000/cheats)|EUR
 |Stardew Valley|[0100e65002bb8000](../../tree/master/0100e65002bb8000/cheats)|
