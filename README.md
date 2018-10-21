@@ -14,19 +14,19 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### A
 
 ### B
-* Blossom Tales
+* [Blossom Tales (0100C1000706C000)](../../tree/master/0100C1000706C000/cheats)
 
 ### C
-* Captain Toad: Treasure Tracker
-* Cave Story+
-* Crash Bandicoot N. Sane Trilogy
+* [Captain Toad: Treasure Tracker (01009bf0072d4000)](../../tree/master/01009bf0072d4000/cheats)
+* [Cave Story+ (0100b7d0022ee000)](../../tree/master/0100b7d0022ee000/cheats)
+* [Crash Bandicoot N. Sane Trilogy (0100d1b006744000)](../../tree/master/0100d1b006744000/cheats)
 
 ### D
-* Dark Souls
-* Dead Cells (EUR)
-* Dragon Ball FighterZ
-* Dragon Ball Xenoverse 2
-* Dragon Quest Builders
+* [Dark Souls (01004ab00a260000)](../../tree/master/01004ab00a260000/cheats)
+* [Dead Cells (0100646009fbe000)](../../tree/master/0100646009fbe000/cheats)
+* [Dragon Ball FighterZ (0100a250097f0000)](../../tree/master/0100a250097f0000/cheats)
+* [Dragon Ball Xenoverse 2 (010078d000f88000)](../../tree/master/010078d000f88000/cheats)
+* [Dragon Quest Builders (010008900705C000)](../../tree/master/010008900705C000/cheats)
 
 ### E
 
@@ -45,16 +45,18 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### L
 
 ### M
-* Mega Man 11
-* Mega Man legacy collection
-* Mega Man X Legacy Collection
+* [Mega Man 11 (0100b0c0086b0000)](../../tree/master/0100b0c0086b0000/cheats)
+* [Mega Man Legacy Collection (01002D4007AE0000)](../../tree/master/01002D4007AE0000/cheats)
+* [Mega Man X Legacy Collection (01005C60086BE000)](../../tree/master/01005C60086BE000/cheats)
+* [Mega Man X Legacy Collection (01005C60086BE000)](../../tree/master/01005C60086BE000/cheats)
 
 ### N
 
 ### O
-* Oceanhorn: Monster of Uncharted Seas
-* Octopath Traveler
-* Okami HD
+* [Oceanhorn: Monster of Uncharted Seas (01007d7001d0e000)](../../tree/master/01007d7001d0e000/cheats)
+* [Octopath Traveler (010057d006492000)](../../tree/master/010057d006492000/cheats)
+* [Okami HD (0100F10009870000)](../../tree/master/0100F10009870000/cheats)
+* [Okami HD (0100276009872000)](../../tree/master/0100276009872000/cheats)
 
 ### P
 
@@ -63,23 +65,24 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### R
 
 ### S
-* Splatoon 2
-* Stardew Valley
-* Super Mario Odyssey
+* [Sonic Mania Plus (01009AA000FAA000)](../../tree/master/01009AA000FAA000/cheats)
+* [Splatoon 2 (0100F8F0000A2000)](../../tree/master/0100F8F0000A2000/cheats)
+* [Stardew Valley(0100e65002bb8000)](../../tree/master/0100e65002bb8000/cheats)
+* [Super Mario Odyssey (0100000000010000)](../../tree/master/0100000000010000/cheats)
 
 ### T
-* The Legend of Zelda: Breath of the Wild
-* The Messenger
+* [The Legend of Zelda: Breath of the Wild (01007EF00011E000)](../../tree/master/01007EF00011E000/cheats)
+* [The Messenger (0100DC300AC78000)](../../tree/master/0100DC300AC78000/cheats)
 
 ### U
 
 ### V
-* Valkyria Chronicles 4
+* [Valkyria Chronicles 4 (01005C600AC68000)](../../tree/master/01005C600AC68000/cheats)
 
 ### W
 
 ### X
-* Xenoblade Chronicles 2
+* [Xenoblade Chronicles 2 (0100E95004038000)](../../tree/master/0100E95004038000/cheats)
 
 ### Y
 
