@@ -1,6 +1,12 @@
 # SXOS Cheat DB
 
-titleid db can be found at http://nswdb.com/ and https://switchbrew.org/w/index.php?title=Title_list/Games
+This is a collection of cheat codes for use with Team Xecutor's SXOS CFW on Nintendo Switch
+
+Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w/index.php?title=Title_list/Games
+
+## Usage
+[Click here to Download](../../archive/master.zip "SXOS CheatDB")
+ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 
 # Current titles
 
@@ -71,6 +77,8 @@ titleid db can be found at http://nswdb.com/ and https://switchbrew.org/w/index.
 ### S
 |Name|TitleID|Region
 |--|--|--
+|Sonic Mania Plus|01009AA000FAA000|
+|Splatoon 2|0100F8F0000A2000|EUR
 |Splatoon 2|0100F8F0000A2000|EUR
 |Stardew Valley|0100e65002bb8000|
 |Super Mario Odyssey|0100000000010000|
