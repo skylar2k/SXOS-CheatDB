@@ -20,7 +20,7 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 ### C
 |Name|TitleID|Region
 |--|--|--
-|Captain Toad Treasure Tracker(../../tree/master/01009bf0072d4000/cheats)|01009bf0072d4000|
+|Captain Toad Treasure Tracker|(01009bf0072d4000)(../../tree/master/01009bf0072d4000/cheats)|
 |Cave Story+|0100a55003b5c000|EUR
 |Cave Story+|0100b7d0022ee000|US
 |Crash Bandicoot N. Sane Trilogy|0100d1b006744000|
