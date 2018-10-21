@@ -1,35 +1,35 @@
-[qian]
+[Soul]
 041F0000 a2bcf814 0098967F
 
-[hp]
+[HP]
 041F0000 a2bcf79c 0000270F
 
-[sp]
+[sp\\SP]
 041F0000 a2bcf7b8 0000270F
 
-[ti]
+[Vitality]
 041F0000 a2bcf7c0 00000063
 
-[ji]
+[Attonement]
 041F0000 a2bcf7c8 00000063
 
-[chi]
+[Endurance]
 041F0000 a2bcf7d0 00000063
 
-[li]
+[Strength]
 041F0000 a2bcf7d8 00000063
 
-[min]
+[Dexterity]
 041F0000 a2bcf7e0 00000063
 
-[nai]
+[Resistance]
 041F0000 a2bcf7e8 00000063
 
-[zhi]
+[Intelligence]
 041F0000 a2bcf7f0 00000063
 
-[xin]
+[Faith]
 041F0000 a2bcf7f8 00000063
 
-[naili]
+[Humanity]
 041F0000 a2bcf808 00000063
