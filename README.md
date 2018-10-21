@@ -6,7 +6,8 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 
 ## Usage
 [Click here to Download](../../archive/master.zip "SXOS CheatDB")
- Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
+
+Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 
 # Current titles
 
@@ -40,6 +41,10 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 ### F
 
 ### G
+|Name|TitleID|Region
+|--|--|--
+|GUNBIRD for Nintendo Switch|[01003C6008940000](../../tree/master/01003C6008940000/cheats)|
+|GUNBIRD2 for Nintendo Switch|[0100BCB00AE98000](../../tree/master/0100BCB00AE98000/cheats)|
 
 ### H
 
@@ -77,6 +82,7 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 ### S
 |Name|TitleID|Region
 |--|--|--
+|SamuraiAces for Nintendo Switch|[0100ADF0096F2000](../../tree/master/0100ADF0096F2000/cheats)|
 |Sonic Mania Plus|[01009AA000FAA000](../../tree/master/01009AA000FAA000/cheats)|
 |Splatoon 2|[0100F8F0000A2000](../../tree/master/0100F8F0000A2000/cheats)|EUR
 |Stardew Valley|[0100e65002bb8000](../../tree/master/0100e65002bb8000/cheats)|
