@@ -34,6 +34,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Dead Cells|[0100646009fbe000](../../tree/master/0100646009fbe000/cheats)|EUR
 |Dragon Ball FighterZ|[0100a250097f0000](../../tree/master/0100a250097f0000/cheats)|
 |Dragon Ball Xenoverse 2|[010078d000f88000](../../tree/master/010078d000f88000/cheats)|
+|Dragon Blaze|[010099B00A2DC000](../../tree/master/010099B00A2DC000/cheats)|
 |Dragon Quest Builders|[010008900705C000](../../tree/master/010008900705C000/cheats)|
 
 ### E
@@ -86,11 +87,14 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Sonic Mania Plus|[01009AA000FAA000](../../tree/master/01009AA000FAA000/cheats)|
 |Splatoon 2|[0100F8F0000A2000](../../tree/master/0100F8F0000A2000/cheats)|EUR
 |Stardew Valley|[0100e65002bb8000](../../tree/master/0100e65002bb8000/cheats)|
+|STRIKERS 1945|[0100FF5005B76000](../../tree/master/0100FF5005B76000/cheats)|
+|STRIKERS 1945 II|[0100720008ED2000](../../tree/master/0100720008ED2000/cheats)|
 |Super Mario Odyssey|[0100000000010000](../../tree/master/0100000000010000/cheats)|
 
 ### T
 |Name|TitleID|Region
 |--|--|--
+|TENGAI|[0100B2600A398000](../../tree/master/0100B2600A398000/cheats)|
 |The Legend of Zelda: Breath of the Wild|[01007EF00011E000](../../tree/master/01007EF00011E000/cheats)|
 |The Messenger|[0100DC300AC78000](../../tree/master/0100DC300AC78000/cheats)|
 
