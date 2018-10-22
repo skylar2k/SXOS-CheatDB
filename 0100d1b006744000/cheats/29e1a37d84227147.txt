@@ -22,20 +22,8 @@
 [999 boxes]
 01100000 942314c0 000003e7
 
-[Crash 1 - 2/2 Keys]
+[Crash 1 - Unlock Keys]
 01100000 905722d0 00000002
 
-[Crash 1 - 3/3 Tawna Tokens]
+[Crash 1 - 3 Tawna Tokens]
 01100000 9422fe00 00000003
-
-[Crash 1 - All Silver Crystals]
-01100000 905722d4 0000001a
-
-[Crash 1 - All Sapphire Relics (N. Sanity Island)]
-011000000 905722d8 00000008
-
-[Crash 1 - Have all Gold Relics (N. Sanity Island)]
-01100000 905722dc 00000009
-
-[Crash 1 - Have all Platinum Relics (N. Sanity Island)]
-01100000 905722e0 00000009
