@@ -16,6 +16,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### B
 |Name|TitleID|Region
 |--|--|--
+|Bayonetta 2|[01007960049A0000](../../tree/master/01007960049A0000/cheats)|
 |Blossom Tales|[0100C1000706C000](../../tree/master/0100C1000706C000/cheats)|
 
 ### C
@@ -141,6 +142,8 @@ https://gbatemp.net/members/talixme.173366/
 https://gbatemp.net/members/abadidea.457466/
 
 https://gbatemp.net/members/dablackdeath.110449/
+
+https://gbatemp.net/members/stoned.347253/
 
 https://team-xecuter.com/forums/members/299480-speedfly
 
