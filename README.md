@@ -12,6 +12,25 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 # Current titles
 
 ### A
+|Name|TitleID|Region
+|--|--|--
+|ACA NEOGEO AERO FIGHTERS 2|[0100ac40038f4000](../../tree/master/0100ac40038f4000/cheats)|
+|ACA NEOGEO AERO FIGHTERS 3|[0100b91008780000](../../tree/master/0100b91008780000/cheats)|
+|ACA NEOGEO BLAZING STAR|[0100dfc003398000](../../tree/master/0100dfc003398000/cheats)|
+|ACA NEOGEO Fatal Fury|[0100ee6002b48000](../../tree/master/0100ee6002b48000/cheats)|
+|ACA NEOGEO GHOST PILOTS|[01005d700a2f8000](../../tree/master/01005d700a2f8000/cheats)|
+|ACA NEOGEO METAL SLUG|[0100ebe002b3e000](../../tree/master/0100ebe002b3e000/cheats)|
+|ACA NEOGEO METAL SLUG 2|[010086300486e000](../../tree/master/010086300486e000/cheats)|
+|ACA NEOGEO METAL SLUG 3|[0100ba8001dc6000](../../tree/master/0100ba8001dc6000/cheats)|
+|ACA NEOGEO METAL SLUG 4|[01009ce00afae000](../../tree/master/01009ce00afae000/cheats)|
+|ACA NEOGEO METAL SLUG X|[01008fd004db6000](../../tree/master/01008fd004db6000/cheats)|
+|ACA NEOGEO NINJA COMBAT|[010052a00a306000](../../tree/master/010052a00a306000/cheats)|
+|ACA NEOGEO NINJA COMMANDO|[01007E800AFB6000](../../tree/master/01007E800AFB6000/cheats)|
+|ACA NEOGEO ROBO ARMY|[01000c9004fa2000](../../tree/master/01000c9004fa2000/cheats)|
+|ACA NEOGEO SENGOKU|[0100d170038ea000](../../tree/master/0100d170038ea000/cheats)|
+|ACA NEOGEO SENGOKU 2|[01009b300872a000](../../tree/master/01009b300872a000/cheats)|
+|ACA NEOGEO SENGOKU 3|[01008d000877c000](../../tree/master/01008d000877c000/cheats)|
+|ACA NEOGEO World Heroes Perfect|[01009d4001dc4000](../../tree/master/01009d4001dc4000/cheats)|
 
 ### B
 |Name|TitleID|Region
@@ -39,6 +58,9 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Dragon Quest Builders|[010008900705C000](../../tree/master/010008900705C000/cheats)|
 
 ### E
+|Name|TitleID|Region
+|--|--|--
+|Elliot Quest|[0100128003A24000](../../tree/master/0100128003A24000/cheats)|
 
 ### F
 
@@ -64,6 +86,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Mega Man 11|[0100b0c0086b0000](../../tree/master/0100b0c0086b0000/cheats)|US
 |Mega Man Legacy Collection|[01002D4007AE0000](../../tree/master/01002D4007AE0000/cheats)|US
 |Mega Man X Legacy Collection|[01005C60086BE000](../../tree/master/01005C60086BE000/cheats)|US
+|Monkey King: Master of the Clouds|[01004C500B8E0000](../../tree/master/01004C500B8E0000/cheats)|
 
 ### N
 
