@@ -103,6 +103,9 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### Q
 
 ### R
+|Name|TitleID|Region
+|--|--|--
+|Resident Evil: Revelations|[0100643002136000](../../tree/master/0100643002136000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### S
 |Name|TitleID|Region
@@ -121,6 +124,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |TENGAI|[0100B2600A398000](../../tree/master/0100B2600A398000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |The Legend of Zelda: Breath of the Wild|[01007EF00011E000](../../tree/master/01007EF00011E000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |The Messenger|[0100DC300AC78000](../../tree/master/0100DC300AC78000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Titan Quest|[0100605008268000](../../tree/master/0100605008268000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### U
 
