@@ -32,7 +32,7 @@
 01100000 905722d4 0000001a
 
 [Crash 1 - All Sapphire Relics (N. Sanity Island)]
-011000000 905722d8 00000008
+01100000 905722d8 00000008
 
 [Crash 1 - Have all Gold Relics (N. Sanity Island)]
 01100000 905722dc 00000009
