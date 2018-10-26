@@ -1,6 +1,6 @@
 # SXOS Cheat DB
 
-This is a collection of cheat codes for use with Team Xecutor's SXOS CFW on Nintendo Switch
+This is a collection of cheat codes for use with Team Xecuter's SXOS CFW on Nintendo Switch
 
 Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w/index.php?title=Title_list/Games
 
@@ -35,7 +35,9 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 ### B
 |Name|TitleID|Region
 |--|--|--
+|Bayonetta|[010076F0049A2000](../../tree/master/010076F0049A2000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
 |Bayonetta 2|[01007960049A0000](../../tree/master/01007960049A0000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Beyblade Burst Battle Zero|[010068600AD16000](../../tree/master/010068600AD16000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
 |Blossom Tales|[0100C1000706C000](../../tree/master/0100C1000706C000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### C
@@ -52,6 +54,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |--|--|--
 |Dark Souls Remastered|[01004ab00a260000](../../tree/master/01004ab00a260000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dead Cells|[0100646009fbe000](../../tree/master/0100646009fbe000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
+|Dead Cells|[0100FC000AEF0000](../../tree/master/0100FC000AEF0000/cheats)|![USA](http://nswdb.com/images/USA.jpg)
 |Dragon Ball FighterZ|[0100a250097f0000](../../tree/master/0100a250097f0000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Ball Xenoverse 2|[010078d000f88000](../../tree/master/010078d000f88000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Blaze|[010099B00A2DC000](../../tree/master/010099B00A2DC000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
@@ -89,6 +92,9 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Monkey King: Master of the Clouds|[01004C500B8E0000](../../tree/master/01004C500B8E0000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### N
+|Name|TitleID|Region
+|--|--|--
+|NBA Playgrounds 2|[01001AE00C1B2000](../../tree/master/01001AE00C1B2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### O
 |Name|TitleID|Region
@@ -171,6 +177,8 @@ mega-mew: https://gbatemp.net/members/mega-mew.365621/
 MentalBlank: https://gbatemp.net/members/mentalblank.467860/
 
 optantic: https://team-xecuter.com/forums/members/163181-optantic
+
+phonz: https://gbatemp.net/members/phonz.447620/
 
 speedfly: https://team-xecuter.com/forums/members/299480-speedfly
 
