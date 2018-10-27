@@ -105,6 +105,9 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Okami HD|[0100F10009870000](../../tree/master/0100F10009870000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
 
 ### P
+|Name|TitleID|Region
+|--|--|--
+|Project Highrise Architects Edition|[0100BBD00976C000](../../tree/master/0100BBD00976C000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 
 ### Q
 
@@ -179,6 +182,8 @@ MentalBlank: https://gbatemp.net/members/mentalblank.467860/
 optantic: https://team-xecuter.com/forums/members/163181-optantic
 
 phonz: https://gbatemp.net/members/phonz.447620/
+
+Retroboy: https://gbatemp.net/members/retroboy.366307/
 
 speedfly: https://team-xecuter.com/forums/members/299480-speedfly
 
