@@ -120,6 +120,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Name|TitleID|Region
 |--|--|--
 |Samurai Aces|[0100ADF0096F2000](../../tree/master/0100ADF0096F2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Shovel Knight: Specter of Torment|[01001180021FA000](../../tree/master/01001180021FA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Sonic Mania Plus|[01009AA000FAA000](../../tree/master/01009AA000FAA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Splatoon 2|[0100F8F0000A2000](../../tree/master/0100F8F0000A2000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 |Stardew Valley|[0100e65002bb8000](../../tree/master/0100e65002bb8000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
