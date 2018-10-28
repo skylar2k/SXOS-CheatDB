@@ -9,6 +9,23 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 
 Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 
+## Having Problems?
+Try the following:
+* Use the latest SXOS update
+* Ensure your games Title ID AND Build ID are the same as the cheat file (The cheats likely will NOT work if they are different)
+* Using a theme? remove it. Themes don't play well with cheats, EmuNAND, or homebrew.
+
+Example: To use the current USA Dead Cell's cheats you will need version 1.0.2 of the game (Dead Cells [UPD][0100fc000aef0800][v131072].nsp) and these IDs:
+* Title ID: 0100FC000AEF0000
+* Base ID: 62f7f1e54f9353f8
+
+If the ID's are correct and youre still having problems, try the following...
+1. Load Game
+2. Activate Cheats
+3. Tap power button to put console into sleep mode
+4. Tap power button again to wake the console back up
+5. Press home & re-open the game
+
 # Current titles
 
 ### A
@@ -120,6 +137,7 @@ Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 |Name|TitleID|Region
 |--|--|--
 |Samurai Aces|[0100ADF0096F2000](../../tree/master/0100ADF0096F2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Shovel Knight: Specter of Torment|[01001180021FA000](../../tree/master/01001180021FA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Sonic Mania Plus|[01009AA000FAA000](../../tree/master/01009AA000FAA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Splatoon 2|[0100F8F0000A2000](../../tree/master/0100F8F0000A2000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 |Stardew Valley|[0100e65002bb8000](../../tree/master/0100e65002bb8000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
