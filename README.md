@@ -26,6 +26,9 @@ If the ID's are correct and youre still having problems, try the following...
 4. Tap power button again to wake the console back up
 5. Press home & re-open the game
 
+## Want to submit codes?
+Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9OcoeT3c-0wGxSjeahpe3rAXD_Z10eIqNBpiA/viewform) google form.
+
 # Current titles
 
 ### A
