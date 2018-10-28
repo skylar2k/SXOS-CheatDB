@@ -10,7 +10,10 @@ Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w
 Folders are to be extracted and placed on your Switch's SD Card in: /sxos/titles
 
 ## Having Problems?
-Use the latest SXOS update & Ensure your games Title ID AND Build ID are the same as the cheat files (The cheats likely will NOT work if they are different)
+Try the following:
+* Use the latest SXOS update
+* Ensure your games Title ID AND Build ID are the same as the cheat file (The cheats likely will NOT work if they are different)
+* Using a theme? remove it. Themes don't play well with cheats, EmuNAND, or homebrew.
 
 Example: To use the current USA Dead Cell's cheats you will need version 1.0.2 of the game (Dead Cells [UPD][0100fc000aef0800][v131072].nsp) and these IDs:
 * Title ID: 0100FC000AEF0000
