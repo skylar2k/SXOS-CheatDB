@@ -27,6 +27,7 @@ If the ID's are correct and youre still having problems, try the following...
 5. Press home & re-open the game
 
 ## Want to submit codes?
+## Want to submit codes?
 Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9OcoeT3c-0wGxSjeahpe3rAXD_Z10eIqNBpiA/viewform) google form.
 
 # Current titles
@@ -38,7 +39,14 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |ACA NEOGEO AERO FIGHTERS 3|[0100b91008780000](../../tree/master/0100b91008780000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO BLAZING STAR|[0100dfc003398000](../../tree/master/0100dfc003398000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO Fatal Fury|[0100ee6002b48000](../../tree/master/0100ee6002b48000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO Garou - Mark of the Wolves|[0100cb2001db8000](../../tree/master/0100cb2001db8000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO GHOST PILOTS|[01005d700a2f8000](../../tree/master/01005d700a2f8000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO KOF 94|[0100eb2001dcc000](../../tree/master/0100eb2001dcc000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO KOF 95|[01009dc001db6000](../../tree/master/01009dc001db6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO KOF 98|[0100b42001db4000](../../tree/master/0100b42001db4000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO KOF 99|[0100583001dca000](../../tree/master/0100583001dca000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO KOF 2000|[0100b97002b44000](../../tree/master/0100b97002b44000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO MAGICIAN LORD|[01007920038F6000](../../tree/master/01007920038F6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO METAL SLUG|[0100ebe002b3e000](../../tree/master/0100ebe002b3e000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO METAL SLUG 2|[010086300486e000](../../tree/master/010086300486e000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO METAL SLUG 3|[0100ba8001dc6000](../../tree/master/0100ba8001dc6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
@@ -47,6 +55,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |ACA NEOGEO NINJA COMBAT|[010052a00a306000](../../tree/master/010052a00a306000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO NINJA COMMANDO|[01007E800AFB6000](../../tree/master/01007E800AFB6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO ROBO ARMY|[01000c9004fa2000](../../tree/master/01000c9004fa2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO Samurai Shodown IV|[010047F001DBC000](../../tree/master/010047F001DBC000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO SENGOKU|[0100d170038ea000](../../tree/master/0100d170038ea000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO SENGOKU 2|[01009b300872a000](../../tree/master/01009b300872a000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO SENGOKU 3|[01008d000877c000](../../tree/master/01008d000877c000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
@@ -74,7 +83,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |--|--|--
 |Dark Souls Remastered|[01004ab00a260000](../../tree/master/01004ab00a260000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dead Cells|[0100646009fbe000](../../tree/master/0100646009fbe000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
-|Dead Cells|[0100FC000AEF0000](../../tree/master/0100FC000AEF0000/cheats)|![USA](http://nswdb.com/images/USA.jpg)
+|Dead Cells|[0100FC000AEF0000](../../tree/master/0100FC000AEF0000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Ball FighterZ|[0100a250097f0000](../../tree/master/0100a250097f0000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Ball Xenoverse 2|[010078d000f88000](../../tree/master/010078d000f88000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Blaze|[010099B00A2DC000](../../tree/master/010099B00A2DC000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
@@ -100,6 +109,10 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 ### J
 
 ### K
+|Name|TitleID|Region
+|--|--|--
+|KeroBlaster|[0100DA200A09A000](../../tree/master/0100DA200A09A000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+
 
 ### L
 
@@ -121,7 +134,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |--|--|--
 |Oceanhorn - Monster of Uncharted Seas|[01007d7001d0e000](../../tree/master/01007d7001d0e000/cheats)|![USA](http://nswdb.com/images/USA.jpg)
 |Octopath Traveler|[010057d006492000](../../tree/master/010057d006492000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
-|Okami HD|[0100276009872000](../../tree/master/0100276009872000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg) ![USA](http://nswdb.com/images/USA.jpg)
+|Okami HD|[0100276009872000](../../tree/master/0100276009872000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Okami HD|[0100F10009870000](../../tree/master/0100F10009870000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
 
 ### P
@@ -140,6 +153,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Name|TitleID|Region
 |--|--|--
 |Samurai Aces|[0100ADF0096F2000](../../tree/master/0100ADF0096F2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Senjou no Valkyria 4|[0100C11009378000](../../tree/master/0100C11009378000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
 |Shovel Knight: Specter of Torment|[01001180021FA000](../../tree/master/01001180021FA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Sonic Mania Plus|[01009AA000FAA000](../../tree/master/01009AA000FAA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Splatoon 2|[0100F8F0000A2000](../../tree/master/0100F8F0000A2000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
@@ -161,8 +175,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 ### V
 |Name|TitleID|Region
 |--|--|--
-|Valkyria Chronicles 4|[0100C11009378000](../../tree/master/0100C11009378000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
-|Valkyria Chronicles 4|[01005C600AC68000](../../tree/master/01005C600AC68000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
+|Valkyria Chronicles 4|[01005C600AC68000](../../tree/master/01005C600AC68000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### W
 
