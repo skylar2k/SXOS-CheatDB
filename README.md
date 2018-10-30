@@ -225,3 +225,5 @@ speedfly: https://team-xecuter.com/forums/members/299480-speedfly
 Stoned: https://gbatemp.net/members/stoned.347253/
 
 talixme: https://gbatemp.net/members/talixme.173366/
+
+rhum1x56: https://team-xecuter.com/forums/members/302110-rhum1x56
