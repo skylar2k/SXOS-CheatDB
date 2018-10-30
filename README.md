@@ -84,6 +84,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Dark Souls Remastered|[01004ab00a260000](../../tree/master/01004ab00a260000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dead Cells|[0100646009fbe000](../../tree/master/0100646009fbe000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 |Dead Cells|[0100FC000AEF0000](../../tree/master/0100FC000AEF0000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Diablo III: Eternal Collection|[01001b300b9be000](../../tree/master/01001b300b9be000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 |Dragon Ball FighterZ|[0100a250097f0000](../../tree/master/0100a250097f0000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Ball Xenoverse 2|[010078d000f88000](../../tree/master/010078d000f88000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Blaze|[010099B00A2DC000](../../tree/master/010099B00A2DC000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
