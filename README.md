@@ -108,6 +108,9 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 ### I
 
 ### J
+|Name|TitleID|Region
+|--|--|--
+|Just Dance 2019|[010075600AE96000](../../tree/master/010075600AE96000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 
 ### K
 |Name|TitleID|Region
