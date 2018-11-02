@@ -158,6 +158,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Samurai Aces|[0100ADF0096F2000](../../tree/master/0100ADF0096F2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Senjou no Valkyria 4|[0100C11009378000](../../tree/master/0100C11009378000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
 |Shovel Knight: Specter of Torment|[01001180021FA000](../../tree/master/01001180021FA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Sky Force Reloaded|[01006fe005b6e000](../../tree/master/01006fe005b6e000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Sonic Mania Plus|[01009AA000FAA000](../../tree/master/01009AA000FAA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Splatoon 2|[0100F8F0000A2000](../../tree/master/0100F8F0000A2000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 |Stardew Valley|[0100e65002bb8000](../../tree/master/0100e65002bb8000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
