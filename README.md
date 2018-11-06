@@ -29,6 +29,12 @@ If the ID's are correct and youre still having problems, try the following...
 ## Want to submit codes?
 Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9OcoeT3c-0wGxSjeahpe3rAXD_Z10eIqNBpiA/viewform) google form.
 
+## Links
+* GBATemp Discussion: https://gbatemp.net/threads/cheat-codes-sx-os-add-and-request.520293/
+* Twitter Bot: https://twitter.com/SXCheatBot
+* TX Cheat Sub-Forum: https://team-xecuter.com/forums/forums/268-Switch-Game-Cheats-Discussion
+* SXOS Main Website: https://sx.xecuter.com
+
 # Current titles
 
 ### A
