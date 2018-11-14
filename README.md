@@ -124,6 +124,8 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 
 
 ### L
+|Name|TitleID|Region
+|--|--|--
 |Pokémon: Let's Go, Pikachu!|[010003F003A34000](../../tree/master/010003F003A34000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### M
