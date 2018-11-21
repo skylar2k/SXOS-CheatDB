@@ -124,10 +124,6 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 
 
 ### L
-|Name|TitleID|Region
-|--|--|--
-|Pokémon: Let's Go, Pikachu!|[010003F003A34000](../../tree/master/010003F003A34000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
-|Pokémon: Let's Go, Eevee!|[0100187003A36000](../../tree/master/0100187003A36000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### M
 |Name|TitleID|Region
@@ -154,6 +150,8 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 ### P
 |Name|TitleID|Region
 |--|--|--
+|Pokémon: Let's Go, Pikachu!|[010003F003A34000](../../tree/master/010003F003A34000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Pokémon: Let's Go, Eevee!|[0100187003A36000](../../tree/master/0100187003A36000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Project Highrise Architects Edition|[0100BBD00976C000](../../tree/master/0100BBD00976C000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 
 ### Q
