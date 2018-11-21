@@ -149,6 +149,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Octopath Traveler|[010057d006492000](../../tree/master/010057d006492000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Okami HD|[0100276009872000](../../tree/master/0100276009872000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Okami HD|[0100F10009870000](../../tree/master/0100F10009870000/cheats)|![JPN](http://nswdb.com/images/JPN.jpg)
+|One Piece Unlimited World Red|[0100574002AF4000](../../tree/master/0100574002AF4000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### P
 |Name|TitleID|Region
@@ -230,6 +231,8 @@ MentalBlank: https://gbatemp.net/members/mentalblank.467860/
 optantic: https://team-xecuter.com/forums/members/163181-optantic
 
 phonz: https://gbatemp.net/members/phonz.447620/
+
+Rabita: https://gbatemp.net/members/rabita.452877/
 
 Retroboy: https://gbatemp.net/members/retroboy.366307/
 
