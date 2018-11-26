@@ -174,6 +174,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |STRIKERS 1945|[0100FF5005B76000](../../tree/master/0100FF5005B76000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |STRIKERS 1945 II|[0100720008ED2000](../../tree/master/0100720008ED2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Super Mario Odyssey|[0100000000010000](../../tree/master/0100000000010000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Super Smash Bros. Ultimate|[01006a800016e000](../../tree/master/01006a800016e000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### T
 |Name|TitleID|Region
