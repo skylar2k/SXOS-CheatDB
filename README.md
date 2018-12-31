@@ -79,6 +79,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 ### C
 |Name|TitleID|Region
 |--|--|--
+|Cat Quest|[0100A2F006FBE000](../../tree/master/0100A2F006FBE000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Captain Toad Treasure Tracker|[01009bf0072d4000](../../tree/master/01009bf0072d4000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Cave Story+|[0100a55003b5c000](../../tree/master/0100a55003b5c000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 |Cave Story+|[0100b7d0022ee000](../../tree/master/0100b7d0022ee000/cheats)|![USA](http://nswdb.com/images/USA.jpg)
