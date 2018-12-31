@@ -101,6 +101,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Elliot Quest|[0100128003A24000](../../tree/master/0100128003A24000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### F
+|Fire Emblem Warriors|[0100F15003E64000](../../tree/master/0100F15003E64000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### G
 |Name|TitleID|Region
