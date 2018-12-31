@@ -57,6 +57,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |ACA NEOGEO METAL SLUG 2|[010086300486e000](../../tree/master/010086300486e000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO METAL SLUG 3|[0100ba8001dc6000](../../tree/master/0100ba8001dc6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO METAL SLUG 4|[01009ce00afae000](../../tree/master/01009ce00afae000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO METAL SLUG 4|[01004c000afdc000](../../tree/master/01004c000afdc000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO METAL SLUG X|[01008fd004db6000](../../tree/master/01008fd004db6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO NINJA COMBAT|[010052a00a306000](../../tree/master/010052a00a306000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO NINJA COMMANDO|[01007E800AFB6000](../../tree/master/01007E800AFB6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
