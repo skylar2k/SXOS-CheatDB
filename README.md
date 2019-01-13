@@ -103,6 +103,8 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Elliot Quest|[0100128003A24000](../../tree/master/0100128003A24000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### F
+|Name|TitleID|Region
+|--|--|--
 |Fire Emblem Warriors|[0100F15003E64000](../../tree/master/0100F15003E64000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### G
@@ -112,8 +114,12 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |GUNBIRD 2|[0100BCB00AE98000](../../tree/master/0100BCB00AE98000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### H
+|Name|TitleID|Region
+|--|--|--
 
 ### I
+|Name|TitleID|Region
+|--|--|--
 
 ### J
 |Name|TitleID|Region
@@ -125,8 +131,9 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |--|--|--
 |KeroBlaster|[0100DA200A09A000](../../tree/master/0100DA200A09A000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
-
 ### L
+|Name|TitleID|Region
+|--|--|--
 
 ### M
 |Name|TitleID|Region
@@ -160,6 +167,8 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Project Highrise Architects Edition|[0100BBD00976C000](../../tree/master/0100BBD00976C000/cheats)|![EUR](http://nswdb.com/images/EUR.jpg)
 
 ### Q
+|Name|TitleID|Region
+|--|--|--
 
 ### R
 |Name|TitleID|Region
@@ -190,6 +199,8 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Titan Quest|[0100605008268000](../../tree/master/0100605008268000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### U
+|Name|TitleID|Region
+|--|--|--
 
 ### V
 |Name|TitleID|Region
@@ -197,6 +208,8 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Valkyria Chronicles 4|[01005C600AC68000](../../tree/master/01005C600AC68000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### W
+|Name|TitleID|Region
+|--|--|--
 
 ### X
 |Name|TitleID|Region
@@ -204,8 +217,12 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Xenoblade Chronicles 2|[0100E95004038000](../../tree/master/0100E95004038000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### Y
+|Name|TitleID|Region
+|--|--|--
 
 ### Z
+|Name|TitleID|Region
+|--|--|--
 
 # Credits
 abadidea: https://gbatemp.net/members/abadidea.457466/
