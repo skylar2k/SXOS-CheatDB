@@ -1,0 +1,75 @@
+[P1 Lives unlimited]
+02100000 564A32F8 00000063
+20000000
+
+[P2 Lives unlimited]
+02100000 564A3340 00000063
+20000000
+
+[P3 Lives unlimited]
+02100000 564A3388 00000063
+20000000
+
+[P4 Lives unlimited]
+02100000 564A33D0 00000063
+20000000
+
+[Time unlimited]
+02100000 564CD310 00157EA4
+20000000
+
+[Tries none]
+580F0000 00CC9860
+780F0000 0002A1F8
+640F0000 00000000 00000000
+
+[Start Invincible]
+01100000 4a9d9ada 00000001
+
+[Start as Mario]
+01100000 4a9d9ac8 00000000
+
+[Start as Luigi]
+01100000 4a9d9ac8 00000001
+
+[Start as Toad alt.]
+01100000 4a9d9ac8 00000002
+
+[Start as Toad]
+01100000 4a9d9ac8 00000003
+
+[Start as Toadette]
+01100000 4a9d9ac8 00000004
+
+[Start as Nabbit]
+01100000 4a9d9ac8 00000005
+
+[Start as Normal]
+01100000 4a9d9ac4 00000000
+
+[Start as Big]
+01100000 4a9d9ac4 00000001
+
+[Start as Fire]
+01100000 4a9d9ac4 00000002
+
+[Start as Micro]
+01100000 4a9d9ac4 00000003
+
+[Start as Helicopter]
+01100000 4a9d9ac4 00000004
+
+[Start as Penguin]
+01100000 4a9d9ac4 00000005
+
+[Start as Ice]
+01100000 4a9d9ac4 00000006
+
+[Start as Flying Squirrel]
+01100000 4a9d9ac4 00000007
+
+[Start as P Flying Squirrel]
+01100000 4a9d9ac4 00000008
+
+[Start as Princess - only Toadette]
+01100000 4a9d9ac4 00000009
