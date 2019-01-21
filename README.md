@@ -149,6 +149,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Name|TitleID|Region
 |--|--|--
 |NBA Playgrounds 2|[01001AE00C1B2000](../../tree/master/01001AE00C1B2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|New Super Mario Bros U Deluxe|[0100EA80032EA000](../../tree/master/0100EA80032EA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### O
 |Name|TitleID|Region
@@ -248,6 +249,8 @@ matt123337: https://gbatemp.net/members/matt123337.347200/
 mega-mew: https://gbatemp.net/members/mega-mew.365621/
 
 MentalBlank: https://gbatemp.net/members/mentalblank.467860/
+
+merlin555: https://gbatemp.net/members/merlin555.355474/
 
 optantic: https://team-xecuter.com/forums/members/163181-optantic
 
