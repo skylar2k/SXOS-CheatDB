@@ -96,6 +96,7 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 |Dragon Ball Xenoverse 2|[010078d000f88000](../../tree/master/010078d000f88000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Blaze|[010099B00A2DC000](../../tree/master/010099B00A2DC000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |Dragon Quest Builders|[010008900705C000](../../tree/master/010008900705C000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|Dragon Ball Xenoverse 2|[010078d000f88000](../../tree/master/010078d000f88000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
 ### E
 |Name|TitleID|Region
