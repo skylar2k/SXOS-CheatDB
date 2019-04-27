@@ -1,4 +1,4 @@
-# Dragon Ball Xenoverse 2.txt
+# Dragon Ball Xenoverse 2
 
 ## CHEATS WORK ONLY AFTER SAVING AND RELOADING THE GAME!
 
