@@ -31,7 +31,6 @@ Please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScNP9WarbhwR9Oco
 
 ## Links
 * GBATemp Discussion: https://gbatemp.net/threads/cheat-codes-sx-os-add-and-request.520293/
-* Twitter Bot: https://twitter.com/SXCheatBot
 * TX Cheat Sub-Forum: https://team-xecuter.com/forums/forums/268-Switch-Game-Cheats-Discussion
 * SXOS Main Website: https://sx.xecuter.com
 
